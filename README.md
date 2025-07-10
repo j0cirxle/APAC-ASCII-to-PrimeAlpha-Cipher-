@@ -1,6 +1,6 @@
 # ASCII-to-PrimeAlpha-Cipher(APAC)
 This encryption algorithm converts the plaintext into ASCII codes, then performs prime factorization on each ASCII value. The resulting prime factors are mapped to alphabetic characters to create the ciphertext.
-
+In this method, the mapping between prime factors and letters functions as the encryption key.
 
 ASCII to PrimeAlpha Cipher (APAC) Encryption Process (Steps 1–4)
 
